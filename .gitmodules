@@ -1,0 +1,15 @@
+[submodule "CPP00_42"]
+	path = CPP00_42
+	url = git@github.com:guicdas/CPP00.git
+[submodule "CPP01_42"]
+	path = CPP01_42
+	url = git@github.com:guicdas/CPP01.git
+[submodule "CPP02_42"]
+	path = CPP02_42
+	url = git@github.com:guicdas/CPP02.git
+[submodule "CPP03_42"]
+	path = CPP03_42
+	url = git@github.com:guicdas/CPP03.git
+[submodule "CPP04_42"]
+	path = CPP04_42
+	url = git@github.com:guicdas/CPP04.git
