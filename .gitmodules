@@ -19,3 +19,6 @@
 [submodule "CPP05_42"]
 	path = CPP05_42
 	url = git@github.com:guicdas/CPP05_42.git
+[submodule "CPP07_42"]
+	path = CPP07_42
+	url = git@github.com:guicdas/CPP07_42.git
